@@ -1,0 +1,15 @@
+Question 4:
+
+    I have been learning web development since past 2 years and have created multiple projects 
+    when I learn something new. I have created a Full Stack Web App named "Sangeet" which combinely
+    uses ReactJS as Frontend and ExpressJS as Backend. It uses PostgreSQL from RDS Database service 
+    from AWS. It is also hosted on AWS EC2 Instance "https://sangeet.tech/"
+
+Question 5:
+    
+    I would go for such guys who have a foundational technical knowledge as well as can connect
+    to people in ease way. Also if any have one have knowledge related to business would be much 
+    better as it can help a lot in case of a startup. A guy who can take responsibilty for the
+    business management and can handle all the investors related queries and other who is good in
+    terms of technical knowledge and can provide solutions to the required problems faced.
+    
